@@ -1,0 +1,1773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari78lalu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari78"/>
+    <rdfs:label>lalu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari96dalam">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari96"/>
+    <rdfs:label>dalam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari0kaum">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari0"/>
+    <rdfs:label>kaum</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari179apa">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari179"/>
+    <rdfs:label>apa</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari131juga">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari131"/>
+    <rdfs:label>juga</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari31wa">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari31"/>
+    <rdfs:label>wa</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari185beriman">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari185"/>
+    <rdfs:label>beriman</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari9kalau">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari9"/>
+    <rdfs:label>kalau</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari93mendengar">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari93"/>
+    <rdfs:label>mendengar</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari47salam">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari47"/>
+    <rdfs:label>salam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11menceritakan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari11"/>
+    <rdfs:label>menceritakan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari184harta">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari184"/>
+    <rdfs:label>harta</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari4alaihi">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari4"/>
+    <rdfs:label>alaihi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari114surat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari114"/>
+    <rdfs:label>surat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari111muhammad">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari111"/>
+    <rdfs:label>muhammad</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari85itu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari85"/>
+    <rdfs:label>itu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari30quran">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari30"/>
+    <rdfs:label>quran</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari35orangorang">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari35"/>
+    <rdfs:label>orangorang</rdfs:label>
+  </owl:Class>
+  <owl:Ontology rdf:about="http://www.semanticweb.org/habib/ontologies/2025/2/shahih_bukhari.owl"/>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari2bakar">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari2"/>
+    <rdfs:label>bakar</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11bercerita">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari11"/>
+    <rdfs:label>bercerita</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari103datang">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari103"/>
+    <rdfs:label>datang</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari48dua">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari48"/>
+    <rdfs:label>dua</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari176mendatangi">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari176"/>
+    <rdfs:label>mendatangi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari18sufyan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari18"/>
+    <rdfs:label>sufyan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari33makkah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari33"/>
+    <rdfs:label>makkah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari86orang">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari86"/>
+    <rdfs:label>orang</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari124manusia">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari124"/>
+    <rdfs:label>manusia</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari38untuk">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari38"/>
+    <rdfs:label>untuk</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari143abbas">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari143"/>
+    <rdfs:label>abbas</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari151akan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari151"/>
+    <rdfs:label>akan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari171berangkat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari171"/>
+    <rdfs:label>berangkat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari100diantara">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari100"/>
+    <rdfs:label>diantara</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari4shallallahu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari4"/>
+    <rdfs:label>shallallahu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari72mengetahui">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari72"/>
+    <rdfs:label>mengetahui</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari4rasulullah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari4"/>
+    <rdfs:label>rasulullah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari132memberi">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari132"/>
+    <rdfs:label>memberi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8masjid">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>masjid</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari182engkau">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari182"/>
+    <rdfs:label>engkau</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari123kamu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari123"/>
+    <rdfs:label>kamu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari13saya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari13"/>
+    <rdfs:label>saya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari83banyak">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari83"/>
+    <rdfs:label>banyak</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari14para">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari14"/>
+    <rdfs:label>para</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari91kami">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari91"/>
+    <rdfs:label>kami</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari158ini">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari158"/>
+    <rdfs:label>ini</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari180kain">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari180"/>
+    <rdfs:label>kain</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari118kebaikan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari118"/>
+    <rdfs:label>kebaikan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari152anas">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari152"/>
+    <rdfs:label>anas</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari125bersama">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari125"/>
+    <rdfs:label>bersama</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari65sebagian">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari65"/>
+    <rdfs:label>sebagian</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari141dari">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari141"/>
+    <rdfs:label>dari</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari128rakaat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari128"/>
+    <rdfs:label>rakaat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari33madinah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari33"/>
+    <rdfs:label>madinah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari163kalian">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari163"/>
+    <rdfs:label>kalian</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari156benar">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari156"/>
+    <rdfs:label>benar</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari164antara">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari164"/>
+    <rdfs:label>antara</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari142ibnu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari142"/>
+    <rdfs:label>ibnu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari84shallallahualaihiwasallam">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari84"/>
+    <rdfs:label>shallallahualaihiwasallam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari153bulan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari153"/>
+    <rdfs:label>bulan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari41tempat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari41"/>
+    <rdfs:label>tempat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari1duduk">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari1"/>
+    <rdfs:label>duduk</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari2salamah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari2"/>
+    <rdfs:label>salamah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari188langit">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari188"/>
+    <rdfs:label>langit</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari181diri">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari181"/>
+    <rdfs:label>diri</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari145dengan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari145"/>
+    <rdfs:label>dengan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari140bersabda">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari140"/>
+    <rdfs:label>bersabda</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari157menjadi">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari157"/>
+    <rdfs:label>menjadi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari5makanan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari5"/>
+    <rdfs:label>makanan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari3apabila">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari3"/>
+    <rdfs:label>apabila</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari58surga">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari58"/>
+    <rdfs:label>surga</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari14sahabat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari14"/>
+    <rdfs:label>sahabat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11ubaidullah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari11"/>
+    <rdfs:label>ubaidullah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari24tidak">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari24"/>
+    <rdfs:label>tidak</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari186hadits">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari186"/>
+    <rdfs:label>hadits</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari162jangan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari162"/>
+    <rdfs:label>jangan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari51wahai">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari51"/>
+    <rdfs:label>wahai</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari43wanita">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari43"/>
+    <rdfs:label>wanita</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari116abdullah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari116"/>
+    <rdfs:label>abdullah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari38memerintahkan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari38"/>
+    <rdfs:label>memerintahkan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari154mengucapkan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari154"/>
+    <rdfs:label>mengucapkan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari10akhirnya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari10"/>
+    <rdfs:label>akhirnya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari78kemudian">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari78"/>
+    <rdfs:label>kemudian</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari20selama">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari20"/>
+    <rdfs:label>selama</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari82syubah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari82"/>
+    <rdfs:label>syubah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari18amru">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari18"/>
+    <rdfs:label>amru</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari167allah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari167"/>
+    <rdfs:label>allah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari59musa">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari59"/>
+    <rdfs:label>musa</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari183al">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari183"/>
+    <rdfs:label>al</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari117memberikan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari117"/>
+    <rdfs:label>memberikan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari6katakan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari6"/>
+    <rdfs:label>katakan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari7semua">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari7"/>
+    <rdfs:label>semua</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari81membawa">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari81"/>
+    <rdfs:label>membawa</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari88tidur">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari88"/>
+    <rdfs:label>tidur</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari10pergi">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari10"/>
+    <rdfs:label>pergi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari22mengatakan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari22"/>
+    <rdfs:label>mengatakan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari15melaksanakan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari15"/>
+    <rdfs:label>melaksanakan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari6bapaknya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari6"/>
+    <rdfs:label>bapaknya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari29sesungguhnya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari29"/>
+    <rdfs:label>sesungguhnya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari2bakr">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari2"/>
+    <rdfs:label>bakr</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8beberapa">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>beberapa</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari79radliallahu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari79"/>
+    <rdfs:label>radliallahu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari19anhu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari19"/>
+    <rdfs:label>anhu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari45mengambil">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari45"/>
+    <rdfs:label>mengambil</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari70muslim">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari70"/>
+    <rdfs:label>muslim</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari166melakukan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari166"/>
+    <rdfs:label>melakukan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari92keadaan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari92"/>
+    <rdfs:label>keadaan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari73qs">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari73"/>
+    <rdfs:label>qs</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari9bukan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari9"/>
+    <rdfs:label>bukan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11said">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari11"/>
+    <rdfs:label>said</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari25unta">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari25"/>
+    <rdfs:label>unta</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11zaid">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari11"/>
+    <rdfs:label>zaid</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari113kepadaku">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari113"/>
+    <rdfs:label>kepadaku</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari127air">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari127"/>
+    <rdfs:label>air</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari102hendaklah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari102"/>
+    <rdfs:label>hendaklah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari138sungguh">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari138"/>
+    <rdfs:label>sungguh</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari1berjalan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari1"/>
+    <rdfs:label>berjalan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari34ternyata">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari34"/>
+    <rdfs:label>ternyata</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8pun">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>pun</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari147berada">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari147"/>
+    <rdfs:label>berada</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari21ibrahim">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari21"/>
+    <rdfs:label>ibrahim</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari4beliau">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari4"/>
+    <rdfs:label>beliau</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari112ayat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari112"/>
+    <rdfs:label>ayat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari137jika">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari137"/>
+    <rdfs:label>jika</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari42aisyah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari42"/>
+    <rdfs:label>aisyah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari50tersebut">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari50"/>
+    <rdfs:label>tersebut</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari32tahu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari32"/>
+    <rdfs:label>tahu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari178empat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari178"/>
+    <rdfs:label>empat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari36sujud">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari36"/>
+    <rdfs:label>sujud</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari150malaikat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari150"/>
+    <rdfs:label>malaikat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari56tangan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari56"/>
+    <rdfs:label>tangan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari4nabi">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari4"/>
+    <rdfs:label>nabi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari172bertanya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari172"/>
+    <rdfs:label>bertanya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari146kali">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari146"/>
+    <rdfs:label>kali</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari121dan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari121"/>
+    <rdfs:label>dan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari39seseorang">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari39"/>
+    <rdfs:label>seseorang</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari61tiga">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari61"/>
+    <rdfs:label>tiga</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari136budak">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari136"/>
+    <rdfs:label>budak</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8tetap">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>tetap</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari25kambing">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari25"/>
+    <rdfs:label>kambing</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari23kurma">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari23"/>
+    <rdfs:label>kurma</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari55paling">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari55"/>
+    <rdfs:label>paling</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari80nama">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari80"/>
+    <rdfs:label>nama</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari126hari">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari126"/>
+    <rdfs:label>hari</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari62malam">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari62"/>
+    <rdfs:label>malam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari122janganlah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari122"/>
+    <rdfs:label>janganlah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari37telah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari37"/>
+    <rdfs:label>telah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari42anha">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari42"/>
+    <rdfs:label>anha</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari119bagaimana">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari119"/>
+    <rdfs:label>bagaimana</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari48pertama">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari48"/>
+    <rdfs:label>pertama</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari12az">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari12"/>
+    <rdfs:label>az</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari120menemui">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari120"/>
+    <rdfs:label>menemui</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari109kepadanya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari109"/>
+    <rdfs:label>kepadanya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari7mereka">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari7"/>
+    <rdfs:label>mereka</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari74pada">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari74"/>
+    <rdfs:label>pada</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari49suatu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari49"/>
+    <rdfs:label>suatu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari9seandainya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari9"/>
+    <rdfs:label>seandainya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari175kepadamu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari175"/>
+    <rdfs:label>kepadamu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari16mau">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari16"/>
+    <rdfs:label>mau</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari189ia">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari189"/>
+    <rdfs:label>ia</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari66sedang">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari66"/>
+    <rdfs:label>sedang</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari177satu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari177"/>
+    <rdfs:label>satu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8padahal">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>padahal</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari139anak">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari139"/>
+    <rdfs:label>anak</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari30membaca">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari30"/>
+    <rdfs:label>membaca</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari60perang">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari60"/>
+    <rdfs:label>perang</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari21ismail">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari21"/>
+    <rdfs:label>ismail</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari101shalat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari101"/>
+    <rdfs:label>shalat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari110tanah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari110"/>
+    <rdfs:label>tanah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11bin">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari11"/>
+    <rdfs:label>bin</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari144keduanya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari144"/>
+    <rdfs:label>keduanya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari2abdurrahman">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari2"/>
+    <rdfs:label>abdurrahman</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari15waktu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari15"/>
+    <rdfs:label>waktu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11yahya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari11"/>
+    <rdfs:label>yahya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari28yang">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari28"/>
+    <rdfs:label>yang</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari89malik">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari89"/>
+    <rdfs:label>malik</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari40turun">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari40"/>
+    <rdfs:label>turun</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari12zubair">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari12"/>
+    <rdfs:label>zubair</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari149islam">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari149"/>
+    <rdfs:label>islam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari13aku">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari13"/>
+    <rdfs:label>aku</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari95bani">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari95"/>
+    <rdfs:label>bani</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8ketika">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>ketika</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari67sangat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari67"/>
+    <rdfs:label>sangat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari5makan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari5"/>
+    <rdfs:label>makan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari173adalah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari173"/>
+    <rdfs:label>adalah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari108lakilaki">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari108"/>
+    <rdfs:label>lakilaki</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8tibatiba">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>tibatiba</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari4wasallam">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari4"/>
+    <rdfs:label>wasallam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari71memiliki">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari71"/>
+    <rdfs:label>memiliki</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari133mendapatkan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari133"/>
+    <rdfs:label>mendapatkan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari165dapat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari165"/>
+    <rdfs:label>dapat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari1berdiri">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari1"/>
+    <rdfs:label>berdiri</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8tak">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>tak</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari23pohon">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari23"/>
+    <rdfs:label>pohon</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari160bagian">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari160"/>
+    <rdfs:label>bagian</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari105diberi">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari105"/>
+    <rdfs:label>diberi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari174kepada">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari174"/>
+    <rdfs:label>kepada</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari115pernah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari115"/>
+    <rdfs:label>pernah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari90neraka">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari90"/>
+    <rdfs:label>neraka</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8karena">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>karena</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari168baginya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari168"/>
+    <rdfs:label>baginya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari69hewan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari69"/>
+    <rdfs:label>hewan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari161ikut">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari161"/>
+    <rdfs:label>ikut</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari2utsman">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari2"/>
+    <rdfs:label>utsman</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari2jabir">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari2"/>
+    <rdfs:label>jabir</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari104tidaklah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari104"/>
+    <rdfs:label>tidaklah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari77penduduk">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari77"/>
+    <rdfs:label>penduduk</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari97hurairah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari97"/>
+    <rdfs:label>hurairah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari134dunia">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari134"/>
+    <rdfs:label>dunia</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari0anshar">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari0"/>
+    <rdfs:label>anshar</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari16maka">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari16"/>
+    <rdfs:label>maka</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari63siapa">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari63"/>
+    <rdfs:label>siapa</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari54umar">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari54"/>
+    <rdfs:label>umar</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari46menjawab">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari46"/>
+    <rdfs:label>menjawab</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari19anhuma">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari19"/>
+    <rdfs:label>anhuma</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari159barangsiapa">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari159"/>
+    <rdfs:label>barangsiapa</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8lantas">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>lantas</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari13dia">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari13"/>
+    <rdfs:label>dia</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari106melarang">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari106"/>
+    <rdfs:label>melarang</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari107hamba">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari107"/>
+    <rdfs:label>hamba</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari94masuk">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari94"/>
+    <rdfs:label>masuk</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari64kedua">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari64"/>
+    <rdfs:label>kedua</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari75rumah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari75"/>
+    <rdfs:label>rumah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11nafi">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari11"/>
+    <rdfs:label>nafi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari68terjadi">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari68"/>
+    <rdfs:label>terjadi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari22berkata">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari22"/>
+    <rdfs:label>berkata</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari155keluar">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari155"/>
+    <rdfs:label>keluar</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari3bila">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari3"/>
+    <rdfs:label>bila</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari18ali">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari18"/>
+    <rdfs:label>ali</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari99baik">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari99"/>
+    <rdfs:label>baik</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari17tangannya">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari17"/>
+    <rdfs:label>tangannya</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8saat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari8"/>
+    <rdfs:label>saat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari44puluh">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari44"/>
+    <rdfs:label>puluh</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari187atas">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari187"/>
+    <rdfs:label>atas</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari129hingga">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari129"/>
+    <rdfs:label>hingga</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari169abu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari169"/>
+    <rdfs:label>abu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari135ada">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari135"/>
+    <rdfs:label>ada</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari170melihat">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari170"/>
+    <rdfs:label>melihat</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari98jibril">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari98"/>
+    <rdfs:label>jibril</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari57salah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari57"/>
+    <rdfs:label>salah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari148lebih">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari148"/>
+    <rdfs:label>lebih</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11mengabarkan">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari11"/>
+    <rdfs:label>mengabarkan</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari87seorang">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari87"/>
+    <rdfs:label>seorang</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari26hisyam">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari26"/>
+    <rdfs:label>hisyam</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11abdul">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari11"/>
+    <rdfs:label>abdul</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari53meminta">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari53"/>
+    <rdfs:label>meminta</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari20setiap">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari20"/>
+    <rdfs:label>setiap</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari130di">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari130"/>
+    <rdfs:label>di</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari27ummu">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari27"/>
+    <rdfs:label>ummu</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari52sebagaimana">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari52"/>
+    <rdfs:label>sebagaimana</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari26urwah">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari26"/>
+    <rdfs:label>urwah</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari76tadi">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari76"/>
+    <rdfs:label>tadi</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari65">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari10">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari125">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">125</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari30">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari26">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari83">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari88">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari169">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">169</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari41">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari1">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari126">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari86">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari127">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">127</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari186">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">186</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari67">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari51">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari50">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari0">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari79">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari174">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">174</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari36">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari52">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari59">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari162">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari4">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari15">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari110">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari143">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">143</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari89">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari70">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari141">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">141</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari111">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari58">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari170">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">170</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari72">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari44">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari73">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari104">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari20">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari78">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari118">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari14">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari85">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari158">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">158</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari129">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari71">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari179">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">179</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari167">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">167</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari128">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">128</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari149">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">149</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari153">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">153</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari77">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari120">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">120</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari61">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari24">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari188">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">188</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari64">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari107">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari185">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">185</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari90">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari6">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari134">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">134</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari189">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">189</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari148">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">148</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari117">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari145">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">145</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari112">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari54">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari100">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari12">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari99">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari94">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari22">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari166">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">166</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari116">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari163">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">163</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari38">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari42">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari159">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">159</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari187">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">187</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari17">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari95">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari114">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari97">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari103">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">103</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari57">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari123">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari55">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari177">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">177</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari171">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari121">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">121</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari182">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">182</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari172">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">172</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari75">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari">
+    <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <rdfs:label>Shahih Bukhari</rdfs:label>
+    <rdfs:comment>The ontology of the hadith shahih bukhari</rdfs:comment>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari146">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">146</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari35">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari150">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">150</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari161">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">161</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari53">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari82">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari7">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari68">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari16">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari147">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">147</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari138">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">138</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari40">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari37">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari178">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">178</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari69">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari56">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari34">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari113">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari180">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">180</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari39">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari105">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari140">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">140</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari101">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari183">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">183</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari18">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari84">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari124">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">124</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari119">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">119</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari173">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">173</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari62">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari102">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari165">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">165</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari155">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">155</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari31">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari175">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">175</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari154">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">154</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari142">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">142</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari136">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari3">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari144">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">144</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari122">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">122</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari19">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari87">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari115">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari139">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">139</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari92">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari60">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari13">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari21">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari28">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari151">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">151</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari66">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari43">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari81">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari45">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari130">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">130</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari168">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">168</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari152">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">152</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari25">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari11">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari98">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari48">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari49">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari46">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari63">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari132">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">132</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari181">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">181</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari157">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">157</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari76">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari176">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">176</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari156">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">156</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari80">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari9">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari27">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari109">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari32">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari91">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari74">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari96">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari23">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari160">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">160</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari131">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">131</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari133">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">133</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari135">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari47">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari93">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">93</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari29">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari164">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">164</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari137">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">137</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari2">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari184">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">184</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari106">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari5">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari33">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari108">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</rdfs:label>
+  </owl:Class>
+  <owl:Class rdf:about="http://www.hadits.id/#shahih_bukhari8">
+    <rdfs:subClassOf rdf:resource="http://www.hadits.id/#shahih_bukhari"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</rdfs:label>
+  </owl:Class>
+</rdf:RDF>
